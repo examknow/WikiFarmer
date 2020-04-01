@@ -1,0 +1,9 @@
+{
+	"@metadata": {
+		"authors": [
+			"Examknow"
+		]
+	},
+	"wikifarmer-desc": "An extension to quickly manage wikis on a wiki farm.",
+  "wikifarmer-defaultmainpage": "__NOTOC__\n== Welcome to {{SITENAME}}! ==\nThis Main Page was automatically created by a wiki creator (a volunteer who created this wiki per a request), and it seems it hasn't been replaced yet.\n\n=== For the bureaucrat(s) of this wiki ===\nHello, and welcome at your new wiki! Thank you for choosing TestWikis for the hosting of your wiki, and we hope you will enjoy our hosting.\n\nYou can immediately start working on your wiki, whenever you want.\n\nNeed help? To start, here a few links about working with MediaWiki:\n* <span class=\"plainlinks\">[https://www.mediawiki.org/wiki/Help:Contents MediaWiki guide (e.g. navigation, editing, deleting pages, blocking users)]</span>\n* <span class=\"plainlinks\">[https://tools.wmflabs.org/testwikis/test/index.php/Community_Support TestWikis Community Support Page]</span>\n*<span class=\"plainlinks\"> \n\n=== For a visitor of this wiki ===\nHello, the default Main Page of this wiki (this is the default Main Page) has not been replaced yet by the bureaucrat(s) of this wiki. The bureaucrat(s) might still be working on a Main Page, so please check this page again later!",
+}
