@@ -1,0 +1,14 @@
+{
+	"name": "WikiFarmer",
+	"author": [
+		"Examknow"
+	],
+	"descriptionmsg": "wikifarmer-description",
+	"type": "other",
+	"MessagesDirs": {
+		"WikiFarmer": [
+			"i18n"
+		]
+	},
+	"manifest_version": 2
+}
